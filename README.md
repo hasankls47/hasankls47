@@ -1,6 +1,22 @@
-<h1 align="center">👑 HASANKLS47 👑</h1>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasankls47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasankls47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/UCrzXXtSpZEfg8gv5DYO67Kw)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40')](https://discord.com/users/688863176850145424)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sitepoint.svg' alt='Sitem' height='40'>](https://hasankls47.cf/)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasankls47&show_icons=true) 
-![Github Profile Visit İnfo](https://komarev.com/ghpvc/?username=hasankls47&label=PROFILE+VIEWS)
+### Herkese Selam!
+
+Merhaba adım Hasan ve 17 yaşındayım. 2 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. 
+Bildigim programlama dilleri: 
+JavaScript
+Html/Css
+Python biliyorum.
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png></code>
+<code><img height="20" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasnkls47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasankls47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCrzXXtSpZEfg8gv5DYO67Kw)
+
+![Profile views](https://gpvc.arturio.dev/BoranGkdn)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoranGkdn&show_icons=true)  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/239330400223232000)
+[Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/gtasa) 
+
