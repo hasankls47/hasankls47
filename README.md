@@ -8,7 +8,7 @@ Merhaba adım Hasan ve 17 yaşındayım. 2 yıl önce Discord botları geliştir
 
 <p float="center">
  <img  src="https://gpvc.arturio.dev/hasankls47" alt="HASANKLS47 Views Stats"/>
-[![Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=hasankls47)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=hasankls47)](https://github.com/hasankls47github-readme-stats)
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
  
