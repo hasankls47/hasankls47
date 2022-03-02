@@ -14,6 +14,6 @@ Merhaba adım Hasan ve 17 yaşındayım. 2 yıl önce Discord botları geliştir
 
 [!Profile Views](https://gpvc.arturio.dev/hasankls47)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoranGkdn&show_icons=true)  
-[![Discord Presence](https://lanyard.cnrad.dev/api/688863176850145424)](https://discord.com/users/688863176850145424)
+[!Discord Profilim](https://lanyard.cnrad.dev/api/688863176850145424)](https://discord.com/users/688863176850145424)
 [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/gtasa) 
 
