@@ -2,8 +2,8 @@
 
 Merhaba adım Hasan ve 17 yaşındayım. 2 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. 
 
+[<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png' alt='github' height='40'>](https://discord.gg/gtasa) 
 
- [![Discord Sunucum]<https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png alt='github' height='40'>](https://discord.com/gtasa)
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
