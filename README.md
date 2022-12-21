@@ -6,9 +6,7 @@ Merhaba adım Hasan ve 18 yaşındayım. 2 yıl önce Discord botları geliştir
 <img  src="https://gpvc.arturio.dev/hasankls47" alt="HASANKLS47 Views Stats">
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=hasankls47&show_icons=true" alt="HASANKLS47 Github Stats" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasankls47)](https://hasankeles.com.tr/)
 
 [![Discord Durumu](https://lanyard.cnrad.dev/api/688863176850145424)](https://discord.com/users/688863176850145424)
 
