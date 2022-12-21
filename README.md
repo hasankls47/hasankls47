@@ -8,8 +8,8 @@ Merhaba adım Hasan ve 18 yaşındayım. 2 yıl önce Discord botları geliştir
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hasankls47&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: radical)"
+  srcset="https://github-readme-stats.vercel.app/api?username=hasankls47&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=hasankls47&show_icons=true"
