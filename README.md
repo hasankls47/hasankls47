@@ -1,6 +1,6 @@
 ### Herkese Selam!
 
-Merhaba adım Hasan ve 18 yaşındayım. 2 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. 
+Merhaba adım Hasan ve 19 yaşındayım. 2 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. 
 
 [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png' alt='github' height='40'>](https://discord.gg/gtasa) 
 <img  src="https://gpvc.arturio.dev/hasankls47" alt="HASANKLS47 Views Stats">
